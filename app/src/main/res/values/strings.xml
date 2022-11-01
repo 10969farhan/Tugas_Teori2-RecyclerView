@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string-array name="people">
+        <item>Elizabeth</item>
+        <item>Ilham</item>
+        <item>Fanny</item>
+        <item>Lingga</item>
+        <item>Aditya</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>okey thankyouu</item>
+        <item>bar maghrib otw aku</item>
+        <item>iya tugas yang itu</item>
+        <item>info ngopi</item>
+        <item>ayo login valo</item>
+    </string-array>
+</resources>
